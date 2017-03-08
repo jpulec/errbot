@@ -36,8 +36,8 @@ It is written and easily extensible in Python.
 
 Errbot is available as open-source software and released under the GPL v3 license.
 
-`|deploy|<https://heroku.com/deploy/>`_
-.. |deploy| image:: https://www.herokucdn.com/deploy/button.svg
+.. image:: https://www.herokucdn.com/deploy/button.svg
+  :target: https://heroku.com/deploy/
 
 
 Features
